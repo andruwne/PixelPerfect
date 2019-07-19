@@ -130,6 +130,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include.h" />
+    <ClInclude Include="line.h" />
     <ClInclude Include="pixel.h" />
   </ItemGroup>
   <ItemGroup>
