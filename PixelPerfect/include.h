@@ -12,4 +12,7 @@
 #endif
 
 #include <SDL.h>
-#include "pixel.h"
+
+#ifndef BYTE
+#define BYTE unsigned char
+#endif
