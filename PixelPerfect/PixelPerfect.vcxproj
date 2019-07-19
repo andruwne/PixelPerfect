@@ -129,7 +129,6 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="cpp.h" />
     <ClInclude Include="include.h" />
     <ClInclude Include="pixel.h" />
   </ItemGroup>

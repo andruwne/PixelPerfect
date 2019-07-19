@@ -31,9 +31,6 @@
     <ClInclude Include="pixel.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cpp.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="include.h">
       <Filter>Header Files</Filter>
     </ClInclude>
